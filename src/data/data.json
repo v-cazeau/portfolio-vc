@@ -1,0 +1,74 @@
+[
+    {
+    "id": 1,
+    "name": "Tribute", 
+    "content": "Tribute to our loved one", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=1"
+    },
+
+    {
+    "id": 2,
+    "name": "Ugly-Website", 
+    "content": "Tribute to our loved one", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=2"
+    },
+
+    {
+    "id": 3,
+    "name": "Scale", 
+    "content": "Kardeshiev Scale", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=3"
+    },
+
+    {
+    "id": 4,
+    "name": "BlueNight in Seoul", 
+    "content": "Clock script", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=4"
+    },
+
+    {
+    "id": 5,
+    "name": "About Me", 
+    "content": "Page of Moi", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=5"
+    },
+
+    {
+    "id": 6,
+    "name": "Counter", 
+    "content": "Counter React.js", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=6"
+    },
+
+    {
+    "id": 7,
+    "name": "Timber Login", 
+    "content": "Login", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=7"
+    },
+
+    {
+    "id": 8,
+    "name": "Quiz App", 
+    "content": "", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=8"
+    },
+
+    {
+    "id": 9,
+    "name": "Up With the Sun: ToDo App", 
+    "content": "Seize the Day", 
+    "website": "https://bocacode.com", 
+    "cover": "https://picsum.photos/200/300?random=9"
+    }
+    
+]
