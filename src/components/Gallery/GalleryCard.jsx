@@ -6,7 +6,7 @@ export default function GalleryCard( { data: {id, name, content, website, cover 
     return (
         <>
             <Col key={id} md={4}> 
-                <Card>
+                <Card className="gallery-card button-effect">
                     <figure>
                         <a href={website}
                             target="_blank"
@@ -18,7 +18,7 @@ export default function GalleryCard( { data: {id, name, content, website, cover 
                     <article>
                         <header> 
                             <h2>{name}</h2>
-                            <p> content </p>
+                            <p> {content} </p>
                         </header>
                     </article>
 
